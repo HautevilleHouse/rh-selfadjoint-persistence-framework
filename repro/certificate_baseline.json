@@ -1,0 +1,56 @@
+{
+  "all_pass": true,
+  "blockers": {
+    "G_Coh": [],
+    "G_M": [],
+    "G_N": [],
+    "G_R": [],
+    "G_X": []
+  },
+  "constants_file_ok": true,
+  "derived": {
+    "bar_j_effective": 0.9335330652367895,
+    "bar_j_w_thm": 11.723304256848916,
+    "bar_rho_pt_thm": 0.03306628092630022,
+    "budget_B": 0.9338674381473995,
+    "closes_e3": false,
+    "closes_e3_manifold_constrained": true,
+    "epistemic_margin": -10.789436818701517,
+    "epistemic_margin_manifold_constrained": 0.0003343729106100035,
+    "eps_idemp": 0.00033437291061,
+    "gm_mode": "manifold_constrained",
+    "rhs_total": 11.756370537775217,
+    "sigma_star_can": 0.00033437291061,
+    "tail_prefactor": 2.3237043079868314,
+    "xi_crit": 0.4302034573217545
+  },
+  "gates": {
+    "G_Coh": "PASS",
+    "G_M": "PASS",
+    "G_N": "PASS",
+    "G_R": "PASS",
+    "G_X": "PASS"
+  },
+  "inputs": {
+    "c_r": 9.960035360010515,
+    "delta_rec": 0.001,
+    "eps_coh": 0.0,
+    "mu_strat": 0.9669337190736997,
+    "rho_nf": 0.03430793496110181,
+    "xi_tail": 0.01408609
+  },
+  "lane": {
+    "active_lane": "manifold_constrained",
+    "canonical_theorem_lane": "manifold_constrained"
+  },
+  "meta": {
+    "computed_at_utc": "2026-03-05T09:16:53+00:00"
+  },
+  "required_inequalities": {
+    "jump_term_numeric": 11.723304256848916,
+    "mu_strat_lower_bound_formula": "mu_strat^(thm) > 0.00033437291061 + 2.3237043079868314*xi_tail^(thm) + c_r^(thm)*(rho_nf^(thm))^2/delta_rec^(thm) + eps_coh^(thm)",
+    "mu_strat_lower_bound_in_xi_tail": "mu_strat^(thm) > 11.723638629759526 + 2.3237043079868314*xi_tail^(thm)",
+    "xi_tail_max_from_current_mu_strat": -4.629119494125749,
+    "xi_tail_upper_bound": "xi_tail^(thm) < 0.4302034573217545"
+  }
+}

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Canonical Lane Spectral Persistence for the Riemann Hypothesis"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/rh-selfadjoint-persistence-canonical-lane"
+url: "https://github.com/HautevilleHouse/rh-selfadjoint-persistence-canonical-lane"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18876071"
+license: MIT
+keywords:
+  - riemann-hypothesis
+  - number-theory
+  - spectral-theory
+  - self-adjoint-operators
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Canonical Lane Spectral Persistence for the Riemann Hypothesis"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05
+  doi: "10.5281/zenodo.18876071"
+  url: "https://github.com/HautevilleHouse/rh-selfadjoint-persistence-canonical-lane/blob/main/paper/RH_SELF_ADJOINT_PERSISTENCE_PREPRINT.md"

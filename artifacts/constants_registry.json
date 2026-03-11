@@ -1,0 +1,42 @@
+{
+  "constants": {
+    "c_r": {
+      "notes": "theorem-tagged from section-level extraction on canonical branch",
+      "source": "13.53P.8 theorem extraction (canonical branch constants)",
+      "theorem_level": true,
+      "value": 9.960035360010515
+    },
+    "delta_rec": {
+      "notes": "theorem-tagged from section-level extraction on canonical branch",
+      "source": "13.53P.8 theorem extraction (canonical branch constants)",
+      "theorem_level": true,
+      "value": 0.001
+    },
+    "eps_coh": {
+      "notes": "Strict canonical branch closure sets eps_(coh,*)^(thm)=0.",
+      "source": "13.53P.8.3 strict canonical normalization",
+      "theorem_level": true,
+      "value": 0.0
+    },
+    "mu_strat": {
+      "notes": "theorem extraction on canonical branch formulas; component split normalized due missing explicit in-file component numerics",
+      "source": "13.43/13.53M theorem extraction (normalized decomposition from canonical Xi_tail)",
+      "theorem_level": true,
+      "value": 0.9669337190736997
+    },
+    "rho_nf": {
+      "notes": "theorem-tagged from section-level extraction on canonical branch",
+      "source": "13.53P.8 theorem extraction (canonical branch constants)",
+      "theorem_level": true,
+      "value": 0.03430793496110181
+    },
+    "xi_tail": {
+      "notes": "theorem extraction on canonical branch formulas; component split normalized due missing explicit in-file component numerics",
+      "source": "13.43/13.53M theorem extraction (normalized decomposition from canonical Xi_tail)",
+      "theorem_level": true,
+      "value": 0.01408609
+    }
+  },
+  "schema_version": "1.0",
+  "updated_at_utc": "2026-03-05T05:33:46+00:00"
+}

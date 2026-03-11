@@ -1,0 +1,21 @@
+title: "The Riemann Hypothesis via Self-Adjoint Spectral Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/rh-selfadjoint-persistence-canonical-lane"
+url: "https://github.com/HautevilleHouse/rh-selfadjoint-persistence-canonical-lane"
+license: None
+keywords:
+  - riemann-hypothesis
+  - number-theory
+  - spectral-theory
+  - self-adjoint-operators
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "The Riemann Hypothesis via Self-Adjoint Spectral Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05

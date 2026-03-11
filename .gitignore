@@ -1,0 +1,6 @@
+.codex_tmp/
+__pycache__/
+scripts/__pycache__/
+repro/certificate_runtime.json
+repro/drift_guard_runs.jsonl
+**/*ATTEMPT*.md

@@ -134,7 +134,7 @@
     }
   },
   "framework": "rh-selfadjoint-persistence-canonical-lane",
-  "generated_utc": "2026-03-12T04:15:45Z",
+  "generated_utc": "2026-03-12T04:19:06Z",
   "inputs_path": "artifacts/constants_extraction_inputs.json",
   "inputs_sha256": "baaf5157b9ea7e40ce0c5eee9b8ea4e660e0b203cbeda9f7c011e3f1deff29b4",
   "schema_version": "2026-03-05",

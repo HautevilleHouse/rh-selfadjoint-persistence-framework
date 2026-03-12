@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-03-05",
-  "generated_utc": "2026-03-12T04:15:45Z",
+  "generated_utc": "2026-03-12T04:19:07Z",
   "lane": "manifold_constrained",
   "baseline_certificate_path": "repro/certificate_baseline.json",
   "runtime_certificate_path": "repro/certificate_runtime.json",
@@ -55,7 +55,7 @@
     },
     {
       "path": "artifacts/constants_extracted.json",
-      "sha256": "4011fc3f9d3876fa83ed2ccfd638df2d8d1b013c726d888810b112b74af178a1"
+      "sha256": "29ffe1977e7575c042ef93f3ef75d5d8fbe2fd6180c2ee13f3cbe7f7ab207c4f"
     },
     {
       "path": "scripts/rh_closure_drift_guard.py",
@@ -87,7 +87,7 @@
     },
     {
       "path": "artifacts/constants_registry.json",
-      "sha256": "e1eeef45a2def12f476401365d493b98e35aa0e78af3a42e3fcd58a0aa94513d"
+      "sha256": "d9d73dba5220c41fd58c8de20f6dd6a36337127c8ff1485ed66f0e2328cf52d4"
     },
     {
       "path": "artifacts/stitch_constants.json",
@@ -95,7 +95,7 @@
     },
     {
       "path": "artifacts/promotion_report.json",
-      "sha256": "8da0220a320655f893c5649dc4d74bb74c6ee88321934a2175b52fceddee6ac3"
+      "sha256": "05938489d3caa6e9b8f4db07e1709772c115b7ee4ced84f928bdc851aa295f2f"
     },
     {
       "path": "LICENSE",

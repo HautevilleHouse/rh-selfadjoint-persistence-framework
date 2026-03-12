@@ -1,7 +1,7 @@
 {
   "extracted_source": "artifacts/constants_extracted.json",
   "framework": "rh-selfadjoint-persistence-canonical-lane",
-  "generated_utc": "2026-03-12T04:15:45Z",
+  "generated_utc": "2026-03-12T04:19:06Z",
   "promoted_constants": {
     "c_r": 9.960035360010515,
     "delta_rec": 0.001,
